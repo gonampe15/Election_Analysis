@@ -6,6 +6,8 @@ The Colorado Board of Elections is requesting for an analysis and audit of their
 
 ## Election Audit Results
 
+![Results](/Resources/election-results.png) 
+
 1. Total Votes
    - 369,711
 2. Number and percentage of votes per county
@@ -21,8 +23,6 @@ The Colorado Board of Elections is requesting for an analysis and audit of their
 5. Congressional Election Winner
    - Diana DeGette
 
-
-![Results](/Resources/election-results.png) 
 ## Summary
 
 This python script can be easily modified to analyze and audit any type of elections. Here are two examples of how this script can be modified and used:

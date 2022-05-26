@@ -23,7 +23,6 @@ The Colorado Board of Elections is requesting for an analysis and audit of their
 
 
 ![Results](/Resources/election-results.png) 
-
 ## Summary
 
 

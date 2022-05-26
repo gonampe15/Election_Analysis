@@ -20,6 +20,8 @@ The Colorado Board of Elections is requesting for an analysis and audit of their
    - Raymon Anthony Doane: 11,606 votes (3.1%)
 5. Congressional Election Winner
    - Diana DeGette
+
+
 ![Results](/Resources/election-results.png) 
 
 

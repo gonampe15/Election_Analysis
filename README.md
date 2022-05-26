@@ -25,5 +25,7 @@ The Colorado Board of Elections is requesting for an analysis and audit of their
 ![Results](/Resources/election-results.png) 
 ## Summary
 
-
+This python script can be easily modified to analyze and audit any type of elections. Here are two examples of how this script can be modified and used:
+- If we needed to analysis a federal congressional election, we would just need to change the counties to states.
+- If we had a statewide or local initiative election, we would just need to change candidates to in favor or against.
 
